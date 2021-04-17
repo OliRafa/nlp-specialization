@@ -13,7 +13,7 @@ build_command = "pip install poetry && poetry build"
 
 [tool.poetry]
 name = "NLP Specialization"
-version = "0.1.0"
+version = "0.2.0"
 description = "Resolution of assignments for NLP Specialization (DeepLearning.AI)"
 authors = ["Rafael Augusto de Oliveira <olirafa@protonmail.com>"]
 license = "The Unlicense"
